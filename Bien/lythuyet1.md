@@ -26,10 +26,21 @@ Ví dụ:
 ----------------------------------------------
 
 ### Cách đặt tên cho biến trong Javascript
-Đặt tên được sử dụng chữ,số, dấu __, -, viết hoa.
+
+#### Quy tắt đặt tên:
+
+Được sử dụng chữ,số, dấu __, -, viết hoa.
 
 Đặc biệt (KHÔNG ĐỂ SỐ Ở ĐẦU TIÊN).
 
 Ví dụ đặt tên sai:
 
     var 0username; ==> đặt tên kiểu này là sai.
+
+#### Khai báo nhiều biến trên 1 hàng
+
+Viết trên cùng 1 hàng, cách nhau bởi giấu phẩy (,) và kết thúc phải có giấu chấm phẩy (;).
+
+Ví dụ:
+
+    var abcd, _tuan, dangtuan93, abcd__2;
