@@ -11,17 +11,18 @@ Là Var, Let, Const
 
 Ví dụ:
 
-if {
+    if {
     let username="bachdangtuan";
-}
+    }
 
 => Sử dụng trong phạm vi lệnh if, ngoài phạm vi lệnh if không có hiệu lực. Anh em hiểu chứ?
 
 * Dùng Const khai báo biến: Const là một hằng số khi khai báo biến bằng const thì phải gán giá trị cho nó luôn, sau này không thể thay đổi giá trị này được.
 
 Ví dụ:
+
     Const username = "bachdangtuan";
-    
+
 ----------------------------------------------
 
 ### Cách đặt tên cho biến trong Javascript
