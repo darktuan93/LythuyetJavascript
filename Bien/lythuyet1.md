@@ -21,3 +21,10 @@ if {
 
 Ví dụ:
     Const username = "bachdangtuan";
+----------------------------------------------
+
+### Cách đặt tên cho biến trong Javascript
+Đặt tên được sử dụng chữ,số, dấu __, -, viết hoa.
+Đặc biệt (KHÔNG ĐỂ SỐ Ở ĐẦU TIÊN).
+Ví dụ
+    var 0username; ==> đặt tên kiểu này là sai.
