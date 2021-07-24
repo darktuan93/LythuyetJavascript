@@ -44,3 +44,22 @@ Viết trên cùng 1 hàng, cách nhau bởi giấu phẩy (,) và kết thúc p
 Ví dụ:
 
     var abcd, _tuan, dangtuan93, abcd__2;
+
+----------------------------------------------
+
+### Cách gán giá trị cho biến 
+
+Tức là khai báo biến và gán giá trị cụ thể cho biến vừa đặt.
+
+#### Vừa khai báo và gán luôn
+     
+    var username = "hovaten"; 
+
+có nghĩa là biến username có giá trị là **hovaten**
+
+#### Khai báo biến xong mới gán
+
+    var username;
+    username = "hovaten";
+
+    
