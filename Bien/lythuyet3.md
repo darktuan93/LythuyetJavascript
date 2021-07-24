@@ -38,3 +38,16 @@ Tương tụ như các phép toàn x*=y (x bằng x nhân y) và x/=y (x bằng 
     == bằng nhau thì là True, nhỏ hơn thì là False
     != khác nhau thì True, giống nhau thì False
 
+## Toán tử lý luận
+
+    &&: gọi là và hay AND , trả kết quả là True nếu 2 trường hợp đều đúng
+    
+    Ví dụ:
+
+            if (a > 10 && b > 10){
+                a + b > 10;
+            } // Nếu a lớn 10 và b lớn 10 thì a cộng b chắc chắn lớn hơn 10.
+
+    ||: gọi là Hoặc hay OR, trả kết quả là True nếu 1 trong 2 tường hợp đúng
+
+    !: NOT hoặc gọi là Không
