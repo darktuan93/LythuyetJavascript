@@ -5,3 +5,5 @@ thằng nào MÕM bảo học cái này vô giá trị thì mời ra chỗ khác
 [1. Biến và khai báo biến  ](Bien/lythuyet1.md)
 
 [2. Hàm alert() prompt() confirm()  ](Bien/lythuyet2.md)
+
+[3. Toán tử trong Javascript  ](Bien/lythuyet3.md)
