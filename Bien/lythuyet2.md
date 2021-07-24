@@ -7,8 +7,25 @@ Thông báo 1 nội dung của tham số truyền vào.
 
 Ví dụ:
 
-    function click(thamso){
-        alert ("thamso");
-    }
+        var thamso;
+        alert (thamso);
+    
 
+## Hàm confirm()
 
+Thông báo 1 nội dung cho ngừoi dùng có 2 sựa lựa chọn YES hoặc No. Nội dung thì hiện thị tham số truyền vào.
+
+Ví dụ:
+
+        var thamso;
+        confirm(thamso);
+    
+
+## Hàm prompt()
+
+Thông báo cho người dùng biết cần nhập nội dụng vào. Kết hợp với hai hàm trên để thông báo kết quả nhập vào của người dùng.
+
+Ví dụ:
+
+        var ten = prompt ("Nhập tên vào đây");
+        alert (ten);
