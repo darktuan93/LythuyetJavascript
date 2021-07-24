@@ -62,4 +62,22 @@ có nghĩa là biến username có giá trị là **hovaten**
     var username;
     username = "hovaten";
 
-    
+---------------------------------------------
+
+### Biến toàn cục và biến cục bộ
+
+#### Biến cục bộ 
+
+Biến cục bộ là khai báo biến trong 1 hàm nào , mà chỉ có hàm đó sử dụng được biến đó. Bên ngoài không sử dụng được.
+Ví dụ:
+
+    function kiemtra(){
+        var ten="Tuan"
+        confirm (ten)
+    }
+    alert (ten) ====> lỗi vì không được khai báo biến.
+
+### Biến toàn cục
+
+Biến cục bộ là khai báo cho toàn bộ phần tất cả các hàm sử dụng
+nhưng phải biết gọi hàm.
