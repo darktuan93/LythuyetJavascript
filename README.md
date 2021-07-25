@@ -8,3 +8,6 @@ thằng nào MÕM bảo học cái này vô giá trị thì mời ra chỗ khác
 
 [3. Toán tử trong Javascript  ](Bien/lythuyet3.md)
 
+[4. Các cấu trúc vòng lặp , if else bla bla  ](Bien/lythuyet4.md)
+
+

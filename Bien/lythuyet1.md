@@ -80,4 +80,4 @@ Ví dụ:
 ### Biến toàn cục
 
 Biến cục bộ là khai báo cho toàn bộ phần tất cả các hàm sử dụng
-nhưng phải biết gọi hàm.
+nhưng phải biết gọi hàm. 
